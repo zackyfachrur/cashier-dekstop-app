@@ -1,0 +1,23 @@
+﻿<Window x:Class="KasirPenjualan.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KasirPenjualan"
+        mc:Ignorable="d"
+        Title="LoginWindow" Height="450" Width="800">
+    <Grid Background="#FF1D1D1D">
+        <Grid Margin="454,58,78,120" Background="White">
+            <TextBox x:Name="LogEmailOrNameText" HorizontalAlignment="Left" Margin="24,53,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="216"/>
+            <Label x:Name="LogEmailOrNameLabel" Content="Your Name or Email" HorizontalAlignment="Left" Margin="24,27,0,0" VerticalAlignment="Top" Width="216"/>
+            <Label x:Name="LogPasswordLabel" Content="Your Password" HorizontalAlignment="Left" Margin="24,83,0,0" VerticalAlignment="Top" Width="216"/>
+            <PasswordBox x:Name="LogPasswordText" HorizontalAlignment="Left" Margin="24,0,0,0" VerticalAlignment="Center" Width="211"/>
+            <Button x:Name="LogButtonCancel" Content="Cancel" HorizontalAlignment="Left" Margin="136,195,0,0" VerticalAlignment="Top" Width="99" Background="#FF191919" Foreground="#FFF3F3F3"/>
+            <Button x:Name="LogButtonSignIn" Content="Sign In" HorizontalAlignment="Left" Margin="24,195,0,0" VerticalAlignment="Top" Width="99" Background="#FFF43F5E" Foreground="#FFF3F3F3"/>
+            <Label x:Name="LogSignUpLabel" Content="Don't Have Account ? Sign Up" HorizontalAlignment="Left" Margin="24,138,0,0" VerticalAlignment="Top" Width="216"/>
+        </Grid>
+        <Label Content="LOGIN INTO YOUR ACCOUNT" HorizontalAlignment="Left" Margin="62,58,0,0" VerticalAlignment="Top" Width="360" FontSize="25" FontWeight="Bold" Foreground="White" Background="#FFF43F5E"/>
+        <Image HorizontalAlignment="Left" Height="167" Margin="158,0,0,0" VerticalAlignment="Center" Width="170" Source="/Logo-Image.png" Cursor="Arrow"/>
+
+    </Grid>
+</Window>

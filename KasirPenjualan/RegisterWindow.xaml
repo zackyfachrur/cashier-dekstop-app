@@ -1,0 +1,25 @@
+﻿<Window x:Class="KasirPenjualan.RegisterWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KasirPenjualan"
+        mc:Ignorable="d"
+        Title="RegisterWindow" Height="450" Width="800" Background="#FF212121">
+    <Grid>
+        <Grid Margin="454,48,78,76" Background="White">
+            <TextBox x:Name="RegNameText" HorizontalAlignment="Left" Margin="24,54,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="215"/>
+            <Label x:Name="RegNameLabel" Content="Create Your Name" HorizontalAlignment="Left" Margin="24,28,0,0" VerticalAlignment="Top" Width="215"/>
+            <TextBox x:Name="RegEmailText" HorizontalAlignment="Left" Margin="24,108,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="215"/>
+            <Label x:Name="RegEmailLabel" Content="Create Your Email" HorizontalAlignment="Left" Margin="24,82,0,0" VerticalAlignment="Top" Width="215"/>
+            <Label x:Name="RegPasswordLabel" Content="Create Your Password" HorizontalAlignment="Left" Margin="24,131,0,0" VerticalAlignment="Top" Width="216"/>
+            <PasswordBox x:Name="RegPasswordText" HorizontalAlignment="Left" Margin="24,157,0,0" VerticalAlignment="Top" Width="211"/>
+            <Button x:Name="RegButtonCancel" Content="Cancel" HorizontalAlignment="Left" Margin="136,243,0,0" VerticalAlignment="Top" Width="99" Background="#FF191919" Foreground="#FFF3F3F3"/>
+            <Button x:Name="RegButtonSignUp" Content="Sign Up" HorizontalAlignment="Left" Margin="24,243,0,0" VerticalAlignment="Top" Width="99" Background="#FFF43F5E" Foreground="#FFF3F3F3"/>
+            <Label x:Name="RegSignInLabel" Content="Already Have Account ? Sign In" HorizontalAlignment="Left" Margin="24,186,0,0" VerticalAlignment="Top" Width="216"/>
+            <Label Content="CREATE YOUR ACCOUNT" HorizontalAlignment="Left" Margin="-391,1,0,0" VerticalAlignment="Top" Width="360" FontSize="30" FontWeight="Bold" Foreground="White" Background="#FFF43F5E"/>
+            <Image HorizontalAlignment="Left" Height="167" Margin="-307,82,0,0" VerticalAlignment="Top" Width="170" Source="/Logo-Image.png" Cursor="Arrow"/>
+        </Grid>
+
+    </Grid>
+</Window>

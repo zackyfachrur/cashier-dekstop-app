@@ -1,0 +1,28 @@
+﻿<Window x:Name="ResgisterWindow" x:Class="KasirPenjualan.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KasirPenjualan"
+        mc:Ignorable="d" Height="450" Width="800" Background="#FF292929" HorizontalAlignment="Center" VerticalAlignment="Center" MinWidth="800" MinHeight="450" MaxWidth="1280" MaxHeight="930">
+    <Grid>
+        <Label Content="Aplikasi Kasir Penjualan" HorizontalAlignment="Left" Margin="330,151,0,0" VerticalAlignment="Top" Foreground="White" FontSize="38" Width="444" FontWeight="Bold"/>
+        <Button x:Name="SignInButton" Content="Sign In" HorizontalAlignment="Left" Margin="342,217,0,0" VerticalAlignment="Top" Height="35" Width="204" Background="#FFF43F5E" Foreground="White" BorderBrush="{x:Null}" Click="SignInButton_Click"/>
+        <Button x:Name="SignUpButton" Content="Sign Up" HorizontalAlignment="Left" Margin="552,217,0,0" VerticalAlignment="Top" Height="35" Width="204" Background="#FF191919" Foreground="White" BorderBrush="{x:Null}" Click="SignUpButton_Click"/>
+        <Rectangle HorizontalAlignment="Left" Height="434" VerticalAlignment="Center" Width="298">
+            <Rectangle.Stroke>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF737373"/>
+                    <GradientStop Color="#FFADA9A9" Offset="1"/>
+                </LinearGradientBrush>
+            </Rectangle.Stroke>
+            <Rectangle.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF585858"/>
+                    <GradientStop Color="#FFF43F5E" Offset="1"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Image HorizontalAlignment="Left" Height="205" Margin="51,0,0,0" VerticalAlignment="Center" Width="190" Source="/Logo-Image.png"/>
+    </Grid>
+</Window>
