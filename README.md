@@ -31,3 +31,20 @@ Start the program
   open KasirPenjualan.sln at Visual Studio 2022
 ```
 
+
+## Demo
+
+### Main Window
+
+![Main Window](https://github.com/zfachrur/cashier-dekstop-app/blob/main/KasirPenjualan/img/MainWindow.Image.png)
+
+
+### Login Window
+
+![Login Window](https://github.com/zfachrur/cashier-dekstop-app/blob/main/KasirPenjualan/img/LoginWindow.Image.png)
+
+### Register Window
+
+![Register Window](https://github.com/zfachrur/cashier-dekstop-app/blob/main/KasirPenjualan/img/RegisterWindow.Image.png)
+
+
