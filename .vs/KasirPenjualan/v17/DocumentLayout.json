@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\KasirPenjualan\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{37ED9FC4-ACDD-46C1-B3D2-D77BA0A626A2}|KasirPenjualan\\KasirPenjualan.csproj|c:\\users\\lenovo\\source\\repos\\kasirpenjualan\\kasirpenjualan\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{37ED9FC4-ACDD-46C1-B3D2-D77BA0A626A2}|KasirPenjualan\\KasirPenjualan.csproj|solutionrelative:kasirpenjualan\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{37ED9FC4-ACDD-46C1-B3D2-D77BA0A626A2}|KasirPenjualan\\KasirPenjualan.csproj|c:\\users\\lenovo\\source\\repos\\kasirpenjualan\\kasirpenjualan\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{37ED9FC4-ACDD-46C1-B3D2-D77BA0A626A2}|KasirPenjualan\\KasirPenjualan.csproj|solutionrelative:kasirpenjualan\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37ED9FC4-ACDD-46C1-B3D2-D77BA0A626A2}|KasirPenjualan\\KasirPenjualan.csproj|c:\\users\\lenovo\\source\\repos\\kasirpenjualan\\kasirpenjualan\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{37ED9FC4-ACDD-46C1-B3D2-D77BA0A626A2}|KasirPenjualan\\KasirPenjualan.csproj|solutionrelative:kasirpenjualan\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37ED9FC4-ACDD-46C1-B3D2-D77BA0A626A2}|KasirPenjualan\\KasirPenjualan.csproj|c:\\users\\lenovo\\source\\repos\\kasirpenjualan\\kasirpenjualan\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{37ED9FC4-ACDD-46C1-B3D2-D77BA0A626A2}|KasirPenjualan\\KasirPenjualan.csproj|solutionrelative:kasirpenjualan\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37ED9FC4-ACDD-46C1-B3D2-D77BA0A626A2}|KasirPenjualan\\KasirPenjualan.csproj|c:\\users\\lenovo\\source\\repos\\kasirpenjualan\\kasirpenjualan\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37ED9FC4-ACDD-46C1-B3D2-D77BA0A626A2}|KasirPenjualan\\KasirPenjualan.csproj|solutionrelative:kasirpenjualan\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37ED9FC4-ACDD-46C1-B3D2-D77BA0A626A2}|KasirPenjualan\\KasirPenjualan.csproj|c:\\users\\lenovo\\source\\repos\\kasirpenjualan\\kasirpenjualan\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{37ED9FC4-ACDD-46C1-B3D2-D77BA0A626A2}|KasirPenjualan\\KasirPenjualan.csproj|solutionrelative:kasirpenjualan\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,27 +38,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\KasirPenjualan\\KasirPenjualan\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "KasirPenjualan\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\KasirPenjualan\\KasirPenjualan\\MainWindow.xaml.cs",
-              "RelativeToolTip": "KasirPenjualan\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T11:25:27.948Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\KasirPenjualan\\KasirPenjualan\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "KasirPenjualan\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\KasirPenjualan\\KasirPenjualan\\MainWindow.xaml",
-              "RelativeToolTip": "KasirPenjualan\\MainWindow.xaml",
+              "Title": "RegisterWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\KasirPenjualan\\KasirPenjualan\\RegisterWindow.xaml",
+              "RelativeDocumentMoniker": "KasirPenjualan\\RegisterWindow.xaml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\KasirPenjualan\\KasirPenjualan\\RegisterWindow.xaml",
+              "RelativeToolTip": "KasirPenjualan\\RegisterWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-27T11:02:42.247Z",
+              "WhenOpened": "2024-10-27T12:05:02.839Z",
               "EditorCaption": ""
             },
             {
@@ -74,19 +57,19 @@
               "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\KasirPenjualan\\KasirPenjualan\\LoginWindow.xaml",
               "RelativeToolTip": "KasirPenjualan\\LoginWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-27T11:14:54.289Z",
+              "WhenOpened": "2024-10-27T12:04:48.347Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "RegisterWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\KasirPenjualan\\KasirPenjualan\\RegisterWindow.xaml",
-              "RelativeDocumentMoniker": "KasirPenjualan\\RegisterWindow.xaml",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\KasirPenjualan\\KasirPenjualan\\RegisterWindow.xaml",
-              "RelativeToolTip": "KasirPenjualan\\RegisterWindow.xaml",
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\KasirPenjualan\\KasirPenjualan\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "KasirPenjualan\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\KasirPenjualan\\KasirPenjualan\\MainWindow.xaml",
+              "RelativeToolTip": "KasirPenjualan\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-27T11:03:03.551Z",
+              "WhenOpened": "2024-10-27T12:02:39.964Z",
               "EditorCaption": ""
             }
           ]
