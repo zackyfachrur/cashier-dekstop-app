@@ -4,8 +4,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:KasirPenjualan"
-        mc:Ignorable="d"
-        Title="RegisterWindow" Height="450" Width="800" Background="#FF212121">
+        mc:Ignorable="d" Height="450" Width="800" Background="#FF212121">
     <Grid>
         <Grid Margin="454,48,78,76" Background="White">
             <TextBox x:Name="RegNameText" HorizontalAlignment="Left" Margin="24,54,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="215"/>
